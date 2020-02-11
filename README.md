@@ -7,6 +7,7 @@ We present a simple application which can translate Chinese Speech to Nepali Spe
 ### 1. Recognition of Chinese Speech
 At first few seconds sample of Chinese speech is taken . For this propose [CMU Sphinx](http://cmusphinx.sourceforge.net) Open Source Toolkit For Speech Recognition is used.
 
+> python cn_asr.py
 
 ### 2. Chinese Text to Nepali Text Translation
 
