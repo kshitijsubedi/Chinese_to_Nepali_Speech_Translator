@@ -4,6 +4,11 @@ We present a simple application which can translate Chinese Speech to Nepali Spe
 
 # Basic WorkFlow
 
+## python tra.py
+This file records 3 seconds input from your microhone and returns you the nepali translation.
+> pip install pyaudio
+> pip install speechrecognition
+> pip install sphinx
 ### 1. Recognition of Chinese Speech
 At first few seconds sample of Chinese speech is taken . For this propose [CMU Sphinx](http://cmusphinx.sourceforge.net) Open Source Toolkit For Speech Recognition is used.
 
